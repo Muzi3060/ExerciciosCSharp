@@ -1,0 +1,37 @@
+# Build do .NET
+[Bb]in/
+[Oo]bj/
+artifacts/
+[Dd]ebug/
+[Rr]elease/
+
+# Configurações locais dos editores
+.vs/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+
+# Resultados de testes e cobertura
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+appsettings.*.Local.json
+*.pfx
+*.p12
+*.key
+.aws/
+
+# Arquivos temporários e do sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
