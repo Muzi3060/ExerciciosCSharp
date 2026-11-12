@@ -1,3 +1,8 @@
 <Solution>
-  <Project Path="ExerciciosCSharp.csproj" />
+  <Project Path="ClassesDeServico/ClassesDeServico.csproj" />
+  <Project Path="Conteineres/Conteineres.csproj" />
+  <Project Path="Dependencias/Dependencias.csproj" />
+  <Project Path="InjecaoDependencias/InjecaoDependencias.csproj" />
+  <Project Path="Interfaces/Interfaces.csproj" />
+  <Project Path="Polimorfismo/Polimorfismo.csproj" />
 </Solution>

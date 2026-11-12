@@ -1,0 +1,10 @@
+{
+  "Console.WriteLine sem qualificação": {
+    "scope": "csharp",
+    "prefix": "cw",
+    "body": [
+      "Console.WriteLine($1);$0"
+    ],
+    "description": "Escreve no console usando o System importado pelo projeto."
+  }
+}
