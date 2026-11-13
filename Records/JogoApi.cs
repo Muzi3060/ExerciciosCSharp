@@ -1,0 +1,1 @@
+public record JogoApi(long Id, string Titulo) {}

@@ -1,0 +1,1 @@
+public  record JogoBusca(long Id, string Titulo, string Plataforma) {}

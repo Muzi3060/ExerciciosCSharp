@@ -2,7 +2,9 @@
   <Project Path="ClassesDeServico/ClassesDeServico.csproj" />
   <Project Path="Conteineres/Conteineres.csproj" />
   <Project Path="Dependencias/Dependencias.csproj" />
+  <Project Path="Inits/Inits.csproj" />
   <Project Path="InjecaoDependencias/InjecaoDependencias.csproj" />
   <Project Path="Interfaces/Interfaces.csproj" />
   <Project Path="Polimorfismo/Polimorfismo.csproj" />
+  <Project Path="Records/Records.csproj" />
 </Solution>

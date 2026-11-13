@@ -1,0 +1,1 @@
+public record JogoCatalogo(long Id, string Titulo, double Nota) {}
